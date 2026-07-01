@@ -1,6 +1,6 @@
 # Oath Cafe Website
 
-![Oath cafe website visual](assets/oath-cafe.svg)
+![Actual Oath cafe patio hero media](assets/actual/oath-patio-hero.webp)
 
 A cafe website case study focused on scroll-led storytelling, product appetite, media preparation, location confidence, and conversion-friendly UX.
 
@@ -33,6 +33,16 @@ This public repo is a recruiter-facing case study. The private prototype/source 
 ## Public Boundary
 
 This is presented as a concept/prototype case study. Live WhatsApp/map routing, browser profiles, QA captures, logs, and implementation source are not published.
+
+## Actual Project Media
+
+These files are pulled from the actual Oath website project asset folder:
+
+- [Patio hero](assets/actual/oath-patio-hero.webp)
+- [Entrance sign](assets/actual/oath-entrance-sign.webp)
+- [Flame drinks garden](assets/actual/oath-flame-drinks-garden.webp)
+- [Pickup counter](assets/actual/oath-pickup-counter.webp)
+- [Matcha float ritual video](assets/actual/oath-matcha-float-ritual.mp4)
 
 ## Read More
 
